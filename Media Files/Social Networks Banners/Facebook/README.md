@@ -23,6 +23,14 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
+<p>I Stand with Ukraine 3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/Media%20Files/Social%20Networks%20Banners/Facebook/Facebook_I_Stand_with_Ukraine3.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
 <p>Stop Putin</p>
 <!-- /wp:paragraph -->
 
@@ -53,4 +61,12 @@
 
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/Media%20Files/Social%20Networks%20Banners/Facebook/Facebook_Support_Ukraine2.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Support Ukraine 3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/Media%20Files/Social%20Networks%20Banners/Facebook/Facebook_Support_Ukraine3.jpg" alt=""/></figure>
 <!-- /wp:image -->
